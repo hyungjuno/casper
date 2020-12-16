@@ -10,6 +10,16 @@ File: Layout CSS
 
 @import url("font-awesome.min.css");
 @import url("framework.css");
+@import url('https://fonts.googleapis.com/earlyaccess/hanna.css');
+
+p, body, input, textarea, select {
+	font-family: 'Hanna', fantasy;
+}
+
+h1, h2, h3, h4, h5, h6, .heading {
+	font-family: 'Hanna', fantasy;
+}
+
 
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
